@@ -1,0 +1,29 @@
+body
+{
+    background-color: black;
+    color:rgb(107, 39, 39);
+    text-align: center;
+}
+h1{
+    color: white;
+}
+.Top
+{
+    background-color: white;
+}
+.image{
+    width: 40px;
+    height: 40px;
+    padding: 100px;
+    
+}
+.b1
+{
+    text-align: left;
+    color: red;
+
+}
+.b1:hover{
+    cursor: pointer;
+
+}
